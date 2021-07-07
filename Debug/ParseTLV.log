@@ -1,0 +1,3 @@
+﻿  ParseTLV.cpp
+D:\Projects\ParseTLV\ParseTLV.cpp(20,10): warning C4101: 'binary': unreferenced local variable
+  ParseTLV.vcxproj -> D:\Projects\ParseTLV\Debug\ParseTLV.exe
