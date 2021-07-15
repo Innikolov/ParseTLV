@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ParseTLV.cpp">
+    <ClCompile Include="ParseTLV.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
